@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&family=Montserrat:wght@400;500&family=Quicksand:wght@300;400&display=swap');
+
+* {
+  font-family: 'Quicksand';
+  color: #111111;
+  margin: 0px;
+  padding: 0px;
+  transition: 0.2s;
+}
+
+body {
+  height: 2000px;
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 55px;
+  height: 100px;
+}
+
+.navBar li {
+  list-style: none;
+  display: inline;
+  margin-left: 45px;
+}
+
+.link {
+  font-size: 20px;
+  font-family: 'Montserrat';
+  font-weight: 300;
+  text-decoration: none;
+}
