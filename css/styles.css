@@ -58,3 +58,47 @@ body {
   font-size: 60px;
   font-weight: 400;
 }
+
+#description {
+  margin: 50px 0px;
+}
+
+.text {
+  text-align: center;
+}
+
+#description .text {
+  margin-top: 60px;
+  padding-top: 15px;
+}
+
+#description .content {
+  width: 484px;
+  display: inline-block;
+  text-align: left;
+}
+
+#description .left {
+  margin-right: 40px;
+}
+
+.big-text {
+  font-family: 'Josefin Sans';
+  font-size: 30px;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+
+.normal-text {
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 30px;
+  margin-bottom: 15px;
+}
+
+.small-text {
+  font-family: 'Josefin Sans';
+  font-weight: 300;
+  font-size: 18px;
+  margin-bottom: 32px;
+}
